@@ -56,6 +56,6 @@ Start the server and you're done :)
 
 ## Credits
 
-   - [Script Original](https://github.com/Loffes/loffe_robbery/)
+   - [Original Script](https://github.com/Loffes/loffe_robbery/)
  
 Credits to the author [Loffes](https://github.com/Loffes)

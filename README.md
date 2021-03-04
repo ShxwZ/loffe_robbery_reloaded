@@ -1,5 +1,6 @@
 # loffe_robbery_reloaded - Español
-Nueva versión del loffe_robbery. Es una modificación hecha por mi que te permite atracar la tienda con armas melee como cuchillos, botellas, etc.
+Nueva versión del loffe_robbery. 
+Esto es una modificación hecha por mi que te permite atracar la tienda con armas melee como cuchillos, botellas, etc.
 Recuerdo que el codigo base, no es mio.
 
 ## Nuevas características:

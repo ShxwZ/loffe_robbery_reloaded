@@ -46,7 +46,7 @@ I remember that the base code is not mine.
 - Habia un error con el aviso a la policia
 
 ## Requirements
-   - [es_extended (probado en la final version 1.2)](https://github.com/esx-framework/es_extended/releases/tag/1.2.0)
+   - [es_extended (tested on final version 1.2)](https://github.com/esx-framework/es_extended/releases/tag/1.2.0)
    - [esx_policejob](https://github.com/esx-framework/esx_policejob)
 
 ## Installation
